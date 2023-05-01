@@ -85,7 +85,7 @@ a.nav-item:hover {
 	background-color: transparent; 
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
 	.nav-menu {
 		background-color: #063647;
 	}
@@ -100,6 +100,6 @@ a.nav-item:hover {
 
 	.nav-toggle span:hover {
 		background-color: #fff;
-	}
+	} */
 
-}
+/* } */
